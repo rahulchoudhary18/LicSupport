@@ -1,1 +1,1 @@
-# LicSupport
+# BDG_Win_Support
